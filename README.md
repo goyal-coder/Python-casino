@@ -29,4 +29,4 @@ This game is purely for fun and **not** actual gambling. If you're losing money,
 ## 🚀 Play Now!  
 Run this command in your terminal:  
 ```bash
-python slot_machine.py
+python test.py
